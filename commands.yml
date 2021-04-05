@@ -1,0 +1,10 @@
+resize_img:
+  -f:
+    dest: filename
+    required: True
+  -w:
+    dest: width
+    required: True
+  -o:
+    dest: outname
+    required: True
